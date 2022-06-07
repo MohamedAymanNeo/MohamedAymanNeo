@@ -1,10 +1,10 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Mohamed Ayman</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">I'm Mohamed Ayman</h1>
  <br/>
  
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./thoughtworks-gif_dribbble.gif" height="200px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1S-9YE-WvupYqsSuM1HJxy2pa91UqUtOu/view?usp=sharing)**
 
