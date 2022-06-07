@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="10vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+-  I’m *currently learning* how to **flex README** on my **profile** 💪. <!--<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="10vw" />-->
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
